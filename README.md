@@ -21,14 +21,18 @@ Hem kitap okuma tutkusunu hem de yazılımı birleştiren bir proje geliyor! �
 🔹 Bootstrap 5 ile modern ve şık tasarım 🎨
 
 
-Ekran Görüntüsü:
-https://github.com/user-attachments/assets/d15a58b2-2875-4043-9841-53f3d790b546
-
-
-
-
-
 Bu küçük başlangıç, büyük projelerin habercisi! Devamı gelecek… 🚀📚
+Ekran Görüntüsü:
+
+
+
+
+
+
+https://github.com/user-attachments/assets/98a7ac89-ad56-4bd5-967c-22ee8635722f
+
+
+
 
 
 
