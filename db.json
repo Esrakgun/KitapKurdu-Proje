@@ -1,0 +1,205 @@
+{
+  "books": [
+      {
+          "id": 1,
+          "type":"novel",
+          "title": "Atomik Alışkanlıklar",
+          "author": "James Clear",
+          "image": "/kitap/1..PNG",
+          "year": 2020,
+          "page": 305,
+          "description": "Küçük değişimlerin büyük sonuçlar doğurabileceğini anlatan etkileyici bir kişisel gelişim kitabı.",
+          "price": 76.32
+      },
+      {
+          "id": 2,
+          "type":"novel",
+          "title": "Düşün ve Zengin Ol",
+          "author": "Napoleon Hill",
+          "image": "/kitap/2..PNG",
+          "year": 1937,
+          "page": 320,
+          "description": "Başarı ve zenginlik sırlarını öğrenmek isteyenler için zamansız bir rehber.",
+          "price": 71.86
+      },
+      {
+          "id": 3,
+          "type":"novel",
+          "title": "Alışkanlıkların Gücü",
+          "author": "Charles Duhigg",
+          "image": "/kitap/3..PNG",
+          "year": 2012,
+          "page": 400,
+          "description": "Alışkanlıkların beynimizdeki etkilerini inceleyen ilgi çekici bir kitap.",
+          "price": 48.07
+      },
+      {
+          "id": 4,
+          "type":"novel",
+          "title": "Sapiens: İnsan Türünün Kısa Tarihi",
+          "author": "Yuval Noah Harari",
+          "image": "/kitap/4..PNG",
+          "year": 2011,
+          "page": 464,
+          "description": "İnsanlık tarihinin başlangıcından günümüze kadar olan serüvenini anlatan sürükleyici bir eser.",
+          "price": 54.04
+      },
+      {
+          "id": 5,
+          "type":"novel",
+          "title": "Zamanın Kısa Tarihi",
+          "author": "Stephen Hawking",
+          "image": "/kitap/5..PNG",
+          "year": 1988,
+          "page": 212,
+          "description": "Evrenin sırlarını merak edenler için yazılmış popüler bir bilim klasiği.",
+          "price": 25.1
+      },
+      {
+          "id": 6,
+          "type":"novel",
+          "title": "Mutluluk Sanatı",
+          "author": "Dalai Lama",
+          "image": "/kitap/6..PNG",
+          "year": 1998,
+          "page": 352,
+          "description": "Mutlu bir yaşam sürmek için derin öğretiler sunan ilham verici bir kitap.",
+          "price": 64.25
+      },
+      {
+          "id": 7,
+          "type":"novel",
+          "title": "Bilinçaltının Gücü",
+          "author": "Joseph Murphy",
+          "image": "/kitap/7..PNG",
+          "year": 1963,
+          "page": 320,
+          "description": "Bilinçaltımızın potansiyelini ortaya çıkarmamıza yardımcı olan bir başyapıt.",
+          "price": 59.45
+      },
+      {
+          "id": 8,
+          "type":"novel",
+          "title": "Akıllı Yatırımcı",
+          "author": "Benjamin Graham",
+          "image": "/kitap/8..PNG",
+          "year": 1949,
+          "page": 640,
+          "description": "Finans ve yatırım dünyasına giriş yapmak isteyenler için vazgeçilmez bir rehber.",
+          "price": 80.67
+      },
+      {
+          "id": 9,
+          "type":"novel",
+          "title": "Cesur Yeni Dünya",
+          "author": "Aldous Huxley",
+          "image": "/kitap/9..PNG",
+          "year": 1932,
+          "page": 288,
+          "description": "Distopik bir gelecekte geçen ve toplumu sorgulatan çarpıcı bir roman.",
+          "price": 29.75
+      },
+      {
+          "id": 10,
+          "type":"novel",
+          "title": "1984",
+          "author": "George Orwell",
+          "image": "/kitap/10..PNG",
+          "year": 1949,
+          "page": 328,
+          "description": "Baskıcı rejimlerin etkilerini ele alan ve özgürlük kavramını sorgulatan bir klasik.",
+          "price": 34.12
+      },
+      {
+          "id": 11,
+          "type":"novel",
+          "title": "İnsanın Anlam Arayışı",
+          "author": "Viktor E. Frankl",
+          "image": "/kitap/11..PNG",
+          "year": 1946,
+          "page": 200,
+          "description": "Hayatın anlamını ve insanın zor koşullarda bile umudu nasıl koruyabileceğini anlatan etkileyici bir eser.",
+          "price": 45.90
+      },
+      {
+          "id": 12,
+          "type":"novel",
+          "title": "Bir Ömür Nasıl Yaşanır?",
+          "author": "İlber Ortaylı",
+          "image": "/kitap/12..PNG",
+          "year": 2019,
+          "page": 288,
+          "description": "Tarihçi İlber Ortaylı’nın tecrübelerinden yola çıkarak sunduğu hayata dair önemli öğütler.",
+          "price": 55.30
+      },{
+            "id": 13,
+            "type":"story",
+            "title": "Körler Ülkesi",
+            "author": "H.G. Wells",
+            "image": "/kitap/13..PNG",
+            "year": 1904,
+            "page": 50,
+            "description": "H.G. Wells'in körler diyarında geçen klasik öyküsü, görme ve algı üzerine derinlemesine bir düşünce sunuyor.",
+            "price": 125.80
+          },
+          {
+            "id": 14,
+            "type":"story",
+            "title": "Mavi Köpeğin Gözleri",
+            "author": "Gabriel Garcia Marquez",
+            "image": "/kitap/14..PNG",
+            "year": 1974,
+            "page": 144,
+            "description": "Gabriel Garcia Marquez'in büyülü gerçekçilikle yazılmış kısa hikayelerinden oluşan etkileyici bir derleme.",
+            "price": 152.52
+          },
+          {
+            "id": 15,
+            "type":"story",
+            "title": "Demir Ökçe",
+            "author": "Jack London",
+            "image": "/kitap/15..PNG",
+            "year": 1908,
+            "page": 400,
+            "description": "Jack London’ın sosyalizm ve kapitalizm mücadelesini işlediği, politik ve distopik bir roman.",
+            "price": 59.90
+          },
+          {
+            "id": 16,
+            "type":"story",
+            "title": "Bütün Kozmokomik Öyküler",
+            "author": "Italo Calvino",
+            "image": "/kitap/16..PNG",
+            "year": 1965,
+            "page": 256,
+            "description": "Italo Calvino'nun bilim ve hayal gücünü birleştirdiği, evrenin oluşumunu anlatan fantastik öyküler.",
+            "price": 283.05
+          },
+          {
+            "id": 17,
+            "type":"story",
+            "title": "İyi İnsan Bulmak Zor",
+            "author": "Flannery O'Connor",
+            "image": "/kitap/17..PNG",
+            "year": 1955,
+            "page": 320,
+            "description": "Flannery O'Connor’ın güney gotiği tarzında yazılmış kısa öykülerinden oluşan unutulmaz bir eser.",
+            "price": 110.00
+          },{
+            "id": 18,
+            "type":"story",
+            "title": "Gizli Bahçe",
+            "author": "Frances Hodgson Burnett",
+            "image": "/kitap/18..PNG",
+            "year": 1911,
+            "page": 288,
+            "description": "Frances Hodgson Burnett’in klasikleşmiş çocuk romanı, umut, dostluk ve doğanın iyileştirici gücü üzerine etkileyici bir hikâye sunuyor.",
+            "price": 98.50
+          }
+          
+        ]
+      }
+      
+
+  
+
